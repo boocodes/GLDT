@@ -1,0 +1,312 @@
+#ifndef WINDOW_WINDOW_H_
+#define WINDOW_WINDOW_H_
+
+class ROOT_HANDLER
+{
+
+};
+
+class ERROR_LOAD: ROOT_HANDLER
+{
+
+};
+
+class ABORT_LOAD: ROOT_HANDLER
+{
+
+};
+
+class SUCCESS_LOAD: ROOT_HANDLER
+{
+
+};
+
+class UNLOAD: ROOT_HANDLER
+{
+
+};
+
+class SET_ONLINE: ROOT_HANDLER
+{
+
+};
+
+class SET_OFFLINE: ROOT_HANDLER
+{
+
+};
+
+class FOCUS: ROOT_HANDLER
+{
+
+};
+
+class BLUR: ROOT_HANDLER
+{
+
+};
+
+class WEB_SOCKET_OPEN: ROOT_HANDLER
+{
+
+};
+
+class WEB_SOCKET_MESSAGE: ROOT_HANDLER
+{
+
+};
+
+class WEB_SOCKET_ERROR: ROOT_HANDLER
+{
+
+};
+
+class WEB_SOCKET_CLOSE: ROOT_HANDLER
+{
+
+};
+
+class ANIMATION_START: ROOT_HANDLER
+{
+
+};
+
+class ANIMATION_CANCEL: ROOT_HANDLER
+{
+
+};
+
+class ANIMATION_NEXT_TICK: ROOT_HANDLER
+{
+
+};
+
+class FULLSCREEN_OPEN: ROOT_HANDLER
+{
+
+};
+
+class FULLSCREEN_ERROR: ROOT_HANDLER
+{
+
+};
+
+class RESIZE_WINDOW: ROOT_HANDLER
+{
+
+};
+
+class RISIZE: ROOT_HANDLER
+{
+
+};
+
+class SCROLL: ROOT_HANDLER
+{
+
+};
+
+class CUT_TEXT: ROOT_HANDLER
+{
+
+};
+
+class COPY_TEXT: ROOT_HANDLER
+{
+
+};
+
+class PASTE_TEXT: ROOT_HANDLER
+{
+
+};
+
+class KEYDOWN: ROOT_HANDLER
+{
+
+};
+
+class KEYPRESS: ROOT_HANDLER
+{
+
+};
+
+class KEYUP: ROOT_HANDLER
+{
+
+};
+
+class CLICK: ROOT_HANDLER
+{
+
+};
+
+class DOUBLE_CLICK: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_DOWN: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_ENTER: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_LEAVE: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_MOVE: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_OVER: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_OUT: ROOT_HANDLER
+{
+
+};
+
+class MOUSE_UP: ROOT_HANDLER
+{
+
+};
+
+class SELECT_TEXT: ROOT_HANDLER
+{
+
+};
+
+class DRAG: ROOT_HANDLER
+{
+
+};
+
+class DRAG_END: ROOT_HANDLER
+{
+
+};
+
+class DRAG_ENTER: ROOT_HANDLER
+{
+
+};
+
+class DRAG_START: ROOT_HANDLER
+{
+
+};
+
+class DRAG_LEAVE: ROOT_HANDLER
+{
+
+};
+
+class DRAG_OVER: ROOT_HANDLER
+{
+
+};
+
+class DROP: ROOT_HANDLER
+{
+
+};
+
+class AUDIO_READY: ROOT_HANDLER
+{
+
+};
+
+class CANPLAY_AUDIO: ROOT_HANDLER
+{
+
+};
+
+class CANPLAY_WITHOUT_BUFFURIZATION: ROOT_HANDLER
+{
+
+};
+
+class AUDIO_END: ROOT_HANDLER
+{
+
+};
+
+class AUDIO_START: ROOT_HANDLER
+{
+
+};
+
+class LOADED_META_DATA: ROOT_HANDLER
+{
+
+};
+
+class AUDIO_PAUSE: ROOT_HANDLER
+{
+
+};
+
+class AUDIO_RECOVERY: ROOT_HANDLER
+{
+
+};
+
+class VOLUME_CHANGED: ROOT_HANDLER
+{
+
+};
+
+class AUDIO_WAITING: ROOT_HANDLER
+{
+
+};
+
+class ABORT: ROOT_HANDLER
+{
+
+};
+
+class ERROR: ROOT_HANDLER
+{
+
+};
+
+class LOAD: ROOT_HANDLER
+{
+
+};
+
+class LOADED: ROOT_HANDLER
+{
+
+};
+
+class LOAD_START: ROOT_HANDLER
+{
+
+};
+
+class PROGRESS: ROOT_HANDLER
+{
+
+};
+
+class TIMEOUT: ROOT_HANDLER
+{
+
+};
+
+
+
+
+#endif /* WINDOW_WINDOW_H_ */
